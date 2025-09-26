@@ -18,6 +18,17 @@ canvas{cursor:crosshair;display:block;left:0;position:absolute;top:0;z-index:20}
 #bg{position:fixed;z-index:1;bottom:0}
 audio{position:fixed;display:none;bottom:0;left:0;right:0;width:100%;z-index:5}
 
+/* Style for the wishing message */
+.wish-message {
+  font-family: 'Pacifico', cursive;
+  font-size: 3em; /* Adjust size as needed */
+  line-height: 1.2;
+  padding: 20px;
+  background: rgba(0, 0, 0, 0.3); /* Optional: background for better readability */
+  border-radius: 15px; /* Optional: rounded corners */
+  color: #fff; /* Text color */
+  text-align: center;
+}
 /* Footer */
 .footer{
   position: fixed;
@@ -35,4 +46,5 @@ audio{position:fixed;display:none;bottom:0;left:0;right:0;width:100%;z-index:5}
   font-size:25px;
   text-align:center;
 }
+
 Resources
