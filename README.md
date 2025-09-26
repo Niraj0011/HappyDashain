@@ -4,5 +4,5 @@ This repository is about magical greeting card with html, css and js.
 I will provide link down below.
 I hope you will like it.
 # Greeting Website url:
-https://niraj0011.github.io/HappyNewYear/
+https://nirajshiwakoti.com.np
 
